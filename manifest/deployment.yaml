@@ -15,5 +15,5 @@ spec:
         app: go-helloworld-2
     spec:
       containers:
-      - image: chinari/go-helloworld-2
+      - image: 1c291a85b9723cbd6ae6918059fc3e1beba4590e
         name: go-helloworld-2
